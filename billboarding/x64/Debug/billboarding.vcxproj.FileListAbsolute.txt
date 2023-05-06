@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\billboarding\x64\Debug\billboarding.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\billboarding\x64\Debug\billboarding.exe
+C:\Users\Оксана\Desktop\с++\billboarding\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\billboarding\x64\Debug\glew32d.dll

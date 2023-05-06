@@ -1,0 +1,3 @@
+﻿  particle_system.cpp
+C:\Users\Оксана\Desktop\28\particle_system.cpp(123,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  28.vcxproj -> C:\Users\Оксана\Desktop\с++\28\x64\Debug\28.exe

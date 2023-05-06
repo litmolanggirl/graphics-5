@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\33\x64\Debug\33.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\33\x64\Debug\33.exe
+C:\Users\Оксана\Desktop\с++\33\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\33\x64\Debug\glew32d.dll
